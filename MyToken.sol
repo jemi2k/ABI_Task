@@ -3,7 +3,7 @@
 // SPDX stands for Software Package Data Exchange, which is a standard for expressing software licenses. 
 // In this case, MIT indicates that the contract is licensed under the MIT License.
 
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.20;
 // This line is used to specify the compiler version that should be used to compile the contract. 
 // The caret (^) symbol means "compatible with version 0.8.0 or later".
 
