@@ -5,7 +5,7 @@
 
 pragma solidity ^0.8.20;
 // This line is used to specify the compiler version that should be used to compile the contract. 
-// The caret (^) symbol means "compatible with version 0.8.0 or later".
+// The caret (^) symbol means "compatible with version 0.8.20 or later".
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 // This line imports the ERC20 contract from the OpenZeppelin library, 
